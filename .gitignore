@@ -41,6 +41,9 @@ htmlcov/
 # Streamlit
 .streamlit/secrets.toml
 
+# External/reference repos cloned locally (not part of this project)
+incoming/
+
 # OS files
 .DS_Store
 Thumbs.db
